@@ -1,0 +1,27 @@
+.nav-bar {
+background-color: yellow;
+padding:5px;
+margin:20px;
+}
+
+body{
+background-color: white;
+color: black;
+text-align:center;
+}
+img{
+width:100;
+length;100;
+}
+body{
+    Font-size:25px;
+}
+h1{
+    background-color: green;
+}
+
+
+h1, h2, h3, p {
+  font-family: 'Pacifico', cursive;
+}
+
